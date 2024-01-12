@@ -1,10 +1,18 @@
 @import '~bootstrap/dist/css/bootstrap.css';
 
-body {
-    font-family: Arial, Helvetica, sans-serif;
+h2, h3, h4, h5, p {
+    font-family: 'Arial', 'Helvetica', sans-serif;
 }
 
-body:not(.navbar) {
+h1 {
+    font-family: 'Menlo', 'Lucida Console', monospace;
+}
+
+p, ul {
+    font-size: 14px;
+}
+
+div:not(.navbar) {
     margin-left: 10%;
     margin-right: 10%;
 }
