@@ -3,3 +3,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+body:not(.navbar) {
+    margin-left: 10%;
+    margin-right: 10%;
+}
