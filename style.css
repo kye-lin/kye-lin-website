@@ -12,6 +12,18 @@ p, ul {
     font-size: 16px;
 }
 
+.codeblock {
+    background-color: #ECECEC;
+    border-radius: 5px;
+    width: auto;
+}
+
+code {
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
 figcaption {
     font-size: 14px;
     padding-bottom: 10px;
