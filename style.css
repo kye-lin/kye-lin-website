@@ -17,6 +17,10 @@ section {
     margin: auto;
 }
 
+.spacing {
+    height: 200px;
+}
+
 #pfp {
     max-width: 100%;
     height: auto;
