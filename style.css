@@ -12,7 +12,12 @@ p, ul {
     font-size: 14px;
 }
 
-div:not(.navbar) {
+body {
     margin-left: 8%;
     margin-right: 8%;
+}
+
+#navfooter {
+    margin-left: 0%;
+    margin-right: 0%;
 }
